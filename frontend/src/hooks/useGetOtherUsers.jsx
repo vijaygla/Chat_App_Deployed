@@ -25,4 +25,4 @@ const useGetOtherUsers = () => {
 }
 
 export default useGetOtherUsers
- 
+
